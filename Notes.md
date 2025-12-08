@@ -21,4 +21,4 @@ however ther are 2 problems”
 - to address this TF-IDF
     - put more weights on words that are more meaningful to a cluster, put less weight on words that are used across 
 ￼
-<img width="439" height="224" alt="image" src="https://github.com/user-attachments/assets/f24465f4-d146-4fd3-81b5-6f5b95b8735f" />
+<img width="879" height="454" alt="image" src="https://github.com/user-attachments/assets/f2c310f8-ab53-4a24-9e47-7e57b3395060" />
